@@ -20,7 +20,7 @@ body {
   border-radius: 20px;
   display: flex;
   align-items: center;
-  transition: 1s;
+  transition: 0.5s;
 }
 .card .circle {
   position: absolute;
@@ -40,7 +40,7 @@ body {
   height: 100%;
   background-color: #d83133;
   clip-path: circle(120px at center);
-  transition: 1s;
+  transition: 0.5s;
 }
 .card:hover .circle:before {
   background-color: #0065c3;
@@ -53,7 +53,7 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   pointer-events: none;
-  transition: 1s;
+  transition: 0.5s;
 }
 .card:hover img {
   left: 72%;
@@ -66,7 +66,7 @@ body {
   left: 20%;
   opacity: 0;
   visibility: hidden;
-  transition: 1s;
+  transition: 0.5s;
 }
 .card:hover .content {
   left: 0;
