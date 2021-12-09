@@ -3,10 +3,10 @@ function Pepsi() {
     <div class="card">
       <div class="circle"></div>
       <div class="content">
-        <h2>Pepsi Cola</h2>
+        <h2>Real Sugar</h2>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-          pellentesque mi nec mauris posuere elementum eu id eros!
+          Flavored with cane sugar and beet sugar instead, which soft drink
+          companies used to replace sugar in the 1980s.
         </p>
         <a href="#">Buy Now</a>
       </div>
