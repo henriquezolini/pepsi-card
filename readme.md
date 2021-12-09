@@ -1,6 +1,6 @@
 ![repo-banner](https://raw.githubusercontent.com/henriquezolini/pepsi-card/master/cover.gif)
 
-# Card da Pepsi Animado com CSS
+# Card da Coca-Cola Animado com CSS
 
 Demo: [https://pepsi-card.vercel.app/](https://pepsi-card.vercel.app/)
 
