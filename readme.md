@@ -2,8 +2,6 @@
 
 # Card da Coca-Cola Animado com CSS
 
-Demo: [https://pepsi-card.vercel.app/](https://pepsi-card.vercel.app/)
-
 ## Quer ver?
 
 Baixe o exemplo [ou clone este projeto](https://github.com/henriquezolini/pepsi-card.git):
