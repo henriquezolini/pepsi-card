@@ -1,4 +1,4 @@
-![repo-banner](https://raw.githubusercontent.com/henriquezolini/pepsi-card/master/cover.gif)
+![repo-banner](https://github.com/henriquezolini/pepsi-card/blob/versao/coca-cola/cover.gif?raw=true)
 
 # Card da Coca-Cola Animado com CSS
 
