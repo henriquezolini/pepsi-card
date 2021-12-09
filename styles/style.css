@@ -12,6 +12,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  background-color: black;
 }
 .card {
   position: relative;
@@ -43,7 +44,7 @@ body {
   transition: 0.5s;
 }
 .card:hover .circle:before {
-  background-color: #0065c3;
+  background-color: #fff;
   clip-path: circle(400px at center);
 }
 .card img {
@@ -74,7 +75,7 @@ body {
   visibility: visible;
 }
 .card .content h2 {
-  color: #fff;
+  color: #d83133;
   text-transform: uppercase;
   font-size: 2em;
   line-height: 1em;
@@ -82,16 +83,16 @@ body {
 }
 
 .card .content p {
-  color: #fff;
+  color: black;
   font-size: 1em;
 }
 
 .card .content a {
   position: relative;
-  color: #111;
+  color: #fff;
   padding: 10px 20px;
   border-radius: 10px;
-  background: #fff;
+  background: #d83133;
   margin-top: 20px;
   display: inline-block;
   text-decoration: none;

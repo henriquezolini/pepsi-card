@@ -3,14 +3,14 @@ function Pepsi() {
     <div class="card">
       <div class="circle"></div>
       <div class="content">
-        <h2>Pepsi Cola</h2>
+        <h2>Original</h2>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-          pellentesque mi nec mauris posuere elementum eu id eros!
+          Refrigerante elaborado a partir de água gaseíficada, açúcar, extrato
+          de noz de cola e cafeína.
         </p>
-        <a href="#">Buy Now</a>
+        <a href="#">Compre Agora</a>
       </div>
-      <img src="/pepsi.png" alt="" />
+      <img src="/coca.png" alt="" />
     </div>
   );
 }
